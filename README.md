@@ -1,6 +1,6 @@
 
 
-# Personnal Project : personality_calculator
+# Personal Project : Personality Calculator
 
 
 A basic GUI application designed to determine a user's Enneagram type, zodiac signs, and biorhythms.
